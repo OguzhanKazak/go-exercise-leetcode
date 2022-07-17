@@ -1,4 +1,4 @@
-package solutions
+package main
 
 func RunningSum(nums []int) []int {
 	count := 0

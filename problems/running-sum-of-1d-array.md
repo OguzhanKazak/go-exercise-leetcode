@@ -25,4 +25,4 @@ Constraints:
 1 <= nums.length <= 1000
 -10^6 <= nums[i] <= 10^6
 
-solution => [here](../solutions/running-sum-of-1d-array.go)
+solution => [here](../solutions/find-pivot-index.go)
