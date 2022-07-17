@@ -37,4 +37,4 @@ Constraints:
 1 <= nums.length <= 104
 -1000 <= nums[i] <= 
 
-solution => [here](../solutions/running-sum-of-1d-array.go)
+solution => [here](../solutions/find-pivot-index.go)
